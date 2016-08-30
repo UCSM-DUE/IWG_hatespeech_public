@@ -8,6 +8,7 @@ We dissociate ourselves from all contained opinions.
 
 
 Details of the scheme and purpose are described in:
+
 @inproceedings{ross2016hatespeech,
     title={Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis},
     author={Ross, Björn and Rist, Michael and Carbonell Guillermo and Cabrera Benjamin and Kurowsky Nils and Wojatzki Michael},
