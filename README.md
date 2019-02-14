@@ -9,7 +9,7 @@ We dissociate ourselves from all contained opinions.
 
 Details of the scheme and purpose are described in:
 
-- Björn Ross, Michael Rist, Guillermo Carbonell, Benjamin Cabrera, Nils Kurowsky, and Michael Wojatzki, [Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis](https://www.linguistics.ruhr-uni-bochum.de/bla/nlp4cmc2016/ross.pdf), Proceedings of NLP4CMC III: 3rd Workshop on Natural Language Processing for Computer-Mediated Communication (Bochum) (Michael Beißwenger, Michael Wojatzki, and Torsten Zesch, eds.), Bochumer Linguistische Arbeitsberichte, vol. 17, sep 2016, pp. 6-9.
+- Björn Ross, Michael Rist, Guillermo Carbonell, Benjamin Cabrera, Nils Kurowsky, and Michael Wojatzki, [Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis](https://arxiv.org/pdf/1701.08118.pdf), Proceedings of NLP4CMC III: 3rd Workshop on Natural Language Processing for Computer-Mediated Communication (Bochum) (Michael Beißwenger, Michael Wojatzki, and Torsten Zesch, eds.), Bochumer Linguistische Arbeitsberichte, vol. 17, sep 2016, pp. 6-9.
 
 ```
 @INPROCEEDINGS {ross2016hatespeech,
